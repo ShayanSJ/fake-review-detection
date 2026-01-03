@@ -1,6 +1,7 @@
 # Fake Review Detection Using Machine Learning
 
-<img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/b1d23463-7073-49ef-9a1e-bfa1e95a58c8" />
+<img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/b809a7d0-ddf2-4c28-9bb6-711a1ed13735" />
+
 
 
 ## Overview
