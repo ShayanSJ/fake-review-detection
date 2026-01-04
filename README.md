@@ -61,6 +61,3 @@ These are **not required** for model training and can be ignored or removed if d
 - Deep learning models (LSTM, BERT)
 - Larger and more diverse datasets
 - Deployment as a web API
-
-## Author
-Your Name
